@@ -53,5 +53,5 @@ Steps followed:
 ---
 
 ## 🖼️ Dashboard Screenshots  
-[- ![Customer Dashboard](<add-your-customer-screenshot-link>)  ](https://github.com/Somucr7/Credit_Card_Financial_Dashboard/blob/main/Credit%20Card%20Customer%20Dashboard.png)
-- ![Transaction Dashboard](<add-your-transaction-screenshot-link>)  
+(https://github.com/Somucr7/Credit_Card_Financial_Dashboard/blob/main/Credit%20Card%20Customer%20Dashboard.png)
+(https://github.com/Somucr7/Credit_Card_Financial_Dashboard/blob/main/Credit%20Card%20Transaction%20Dashboard.png)
